@@ -80,3 +80,16 @@ tic-tac-toe/
 - Handling user events
 
 - Structuring small front-end projects
+
+  ---
+
+👩‍💻 Developer
+
+## Pooja M
+
+🌐 GitHub: https://github.com/poojamurugan23
+
+💼 LinkedIn: https://www.linkedin.com/in/poojaa23
+
+
+
