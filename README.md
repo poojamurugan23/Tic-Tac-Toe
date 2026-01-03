@@ -3,6 +3,8 @@
 A simple and interactive **Tic Tac Toe** web game built using **HTML, CSS, and JavaScript**.  
 This project demonstrates basic front-end development concepts such as DOM manipulation, event handling, and game logic.
 
+🔗 Live Demo: https://tic-tac-toe-easygame.netlify.app/
+
 ---
 
 ## 📌 Features
